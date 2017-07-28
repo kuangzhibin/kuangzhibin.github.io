@@ -30,4 +30,4 @@ branches:
     - dev
 env:
   global:
-    - GH_REF: https://github.com/kuangzhibin/kuangzhibin.github.io.git
+    - GH_REF: github.com/kuangzhibin/kuangzhibin.github.io.git
