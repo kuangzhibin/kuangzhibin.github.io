@@ -27,7 +27,7 @@ after_script:
 
 branches:
   only:
-    - hexo/
+    - dev
 env:
   global:
     - GH_REF: https://github.com/kuangzhibin/kuangzhibin.github.io.git
